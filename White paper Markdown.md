@@ -209,7 +209,7 @@ Note that these processes backed by the high-speed architecture of the 3DCoin bl
 
  As was noted earlier, running a node capable of performing these functions can be resource intensive. Which is why the 3DCoin node features come with a rewards system that offers incentives for hosting master-nodes. By hosting a 3DCoin node, users are contributing their quota to the propagation of the 3DCoin blockchain and in so doing setting up a mechanism for earning passive income. It’s a win-win situation for investors and the Project Districts ecosystem.
 
- Proof of service** is implemented to supplent classical proof of work mining or proof of stake , like both it is designed to remove the probability of creating two valid blocks in the same instance, and rewarding contributors to the network. This is achieved by following the consensus that ensures every node will create the same block, while requiring neither the energy wasting of the POW nor the currency staking of the POS. Unlike them, proof of service is performed by master nodes through synchronization.  The real time outputs list being permanently up to date and synchronized at any moment, transaction will be confirmed instantly, even before the mining of the block, to the point where balances will not only be calculated from the blockchain, but also from the Real time outputs list (next blocks transactions list).
+ Proof of service is implemented to supplent classical proof of work mining or proof of stake , like both it is designed to remove the probability of creating two valid blocks in the same instance, and rewarding contributors to the network. This is achieved by following the consensus that ensures every node will create the same block, while requiring neither the energy wasting of the POW nor the currency staking of the POS. Unlike them, proof of service is performed by master nodes through synchronization.  The real time outputs list being permanently up to date and synchronized at any moment, transaction will be confirmed instantly, even before the mining of the block, to the point where balances will not only be calculated from the blockchain, but also from the Real time outputs list (next blocks transactions list).
 
  **Proof of service process:**
 
@@ -219,9 +219,15 @@ Note that these processes backed by the high-speed architecture of the 3DCoin bl
 
  **Proof of service steps :**
 
- 
+![POW1](E:\Workshop\Workbench\Pictures\POS\NEw\POW1.png)
 
-##  **Scripts**
+ ![POW2](E:\Workshop\Workbench\Pictures\POS\NEw\POW2.png)
+
+![POW3](E:\Workshop\Workbench\Pictures\POS\NEw\POW3.png)
+
+![POW4](E:\Workshop\Workbench\Pictures\POS\NEw\POW4.png)
+
+##  Scripts**
 
  A script is a collection of instructions defined by the sender that specifies what the receiver must do to unlock the assets (coins) parsed alongside the script. There is no limitation as to the extent and magnitude of scriptable instructions and senders can send as many assets (3dcs) to multiple addresses simultaneously. There is also provisions for senders to distribute multiple amounts at specific time periods (with the option to set expiry dates) or incorporate additional computation requirements as is a generic puzzle or a value calculated by the 3DC network from an external API (eg. A DHL tracking number, food delivery token, hotel room availability etc.) Note however that these parameters can only be set for standard 3DC addresses. The users can choose to disable the scripts by creating a non-script address, The network uses the address to check if the required data is available before starting the validating process(see below).
 
