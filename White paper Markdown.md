@@ -219,13 +219,13 @@ Note that these processes backed by the high-speed architecture of the 3DCoin bl
 
  **Proof of service steps :**
 
-![POW1](E:\Workshop\Workbench\Pictures\POS\NEw\POW1.png)
+![POW1](https://image.ibb.co/mJXp7q/POW1.png)
 
- ![POW2](E:\Workshop\Workbench\Pictures\POS\NEw\POW2.png)
+ ![POW2](https://image.ibb.co/haM5fA/POW2.png)
 
-![POW3](E:\Workshop\Workbench\Pictures\POS\NEw\POW3.png)
+![POW3](https://image.ibb.co/dQmtYV/POW3.png)
 
-![POW4](E:\Workshop\Workbench\Pictures\POS\NEw\POW4.png)
+![POW4](https://image.ibb.co/kkFbnq/POW4.png)
 
 ##  Scripts**
 
