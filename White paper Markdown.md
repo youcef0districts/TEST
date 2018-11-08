@@ -117,13 +117,13 @@ As of July 2018, the 3DCoin coinbase is worth 62 million 3DC. 75% (47million 3DC
 
 ## Architecture: 3DCoin Blockchain
 
- 3DCoin is an innovative cryptocurrency that relies on a **consensus protocol** to form a **multilayered** **architecture**. The network utilizes simple **scripts** to program **transactions** that in turn deploy contracts triggered by say, a timestamp or an external public API. **API** integration and implementation allow the 3Dcoin blockchain to verify and validate essential data originating from **external** **sources** as is a centralized public server or another blockchain.  
+ 3DCoin is an innovative cryptocurrency that relies on a consensus protocol to form a multilayered architecture. The network utilizes simple scripts to program transactions that in turn deploy contracts triggered by say, a timestamp or an external public API. API integration and implementation allow the 3Dcoin blockchain to verify and validate essential data originating from external sources as is a centralized public server or another blockchain.  
 
  
 
  3DCoin v0.14 is game changing and its features are the following:
 
-​	A Triple layered blockchain secured by the synchronization based proof of service instead of proof of 		 work, saving massive amounts of energy and hardware, with the impossibility for two valid blocks to be created at the same time, thus the impossibility of a 51% attack.
+​	A Triple layered blockchain secured by the synchronization based proof of service instead of proof of work, saving massive amounts of energy and hardware, with the impossibility for two valid blocks to be created at the same time, thus the impossibility of a 51% attack.
 
 ​	A network based on three types of specialized nodes (Master, Pulse, Prime) managing all aspects of the 3DCoin/Districts eccosystem.
 
