@@ -236,7 +236,7 @@ The three types of blocks being mined at the same time (5min interval), all the 
 
 ![POW4](https://image.ibb.co/kkFbnq/POW4.png)
 
-##  Scripts**
+##  Scripts
 
  A script is a collection of instructions defined by the sender that specifies what the receiver must do to unlock the assets (coins) parsed alongside the script. There is no limitation as to the extent and magnitude of scriptable instructions and senders can send as many assets (3dcs) to multiple addresses simultaneously. There is also provisions for senders to distribute multiple amounts at specific time periods (with the option to set expiry dates) or incorporate additional computation requirements as is a generic puzzle or a value calculated by the 3DC network from an external API (eg. A DHL tracking number, food delivery token, hotel room availability etc.) Note however that these parameters can only be set for standard 3DC addresses. The users can choose to disable the scripts by creating a non-script address, The network uses the address to check if the required data is available before starting the validating process(see below).
 
