@@ -187,13 +187,14 @@ Note that these processes backed by the high-speed architecture of the 3DCoin bl
 
  The 3DCoin network has three types of nodes; Masternodes, Primenodes, and Pulsenodes. Each one of these nodes has a specific task to perform. For a new node to attain the status of master or prime node, it must have more than 25000 3DC in its account. (pre v0,14 nodes will keep their previlege)This requirement acts as an anti spam collateral, The network actively assesses and verifies the efficiency of the node before it receives its first payment. If the verification fails, the masternode is temporarly banned and its owner notified of the disfunctions. The number of masternodes on the network is rate limited by the number of active primenodes on the network. Consequently, only 30* masternodes can exist for 1 primenode. The 25000 3DC collateral will be released once the node has recieved its first payment.
 
-###  **Types **:
+###  Types 
 
- **Masternodes** are in charge of verifying 3DCoin transactions, hosting the Real time outputs lists and a full copy of the 3DCoin blockchain , and mining 3DC blocks.Run the network status module.
+-  **Masternodes** are in charge of verifying 3DCoin transactions, hosting the Real time outputs lists and a full copy of the 3DCoin blockchain , and mining 3DC blocks.Run the network status module.
 
- **Pulsenodes** on the other hand, are dedicated to validating Districts object tokens, hosting the Real time objects token list, the object chain, and the real time events in the Districts 3D world, thus serving as a bridge between clients and Prime nodes which run Dapps (3D world clients are not connected to Prime nodes directly). Run the network status module.
+-  **Pulsenodes** on the other hand, are dedicated to validating Districts object tokens, hosting the Real time objects token list, the object chain, and the real time events in the Districts 3D world, thus serving as a bridge between clients and Prime nodes which run Dapps (3D world clients are not connected to Prime nodes directly). Run the network status module.
 
- **Primenodes** are concerned with hosting and running the DAPPs whether they are meant for districts or an external service (web site etc ...), facilitating user-to-dapp access by functioning as a Dapp Name System (DNS), storing storing the DAPP chain and mining DAPP blocks, and all side chains created on the 3DCoin platform by the users. Run the network status module. DAPPs are stored in data structures called Data Capsules, each one is referenced to a block in the DAPP chain and indexed in it.
+-  **Primenodes** are concerned with hosting and running the DAPPs whether they are meant for districts or an external service (web site etc ...), facilitating user-to-dapp access by functioning as a Dapp Name System (DNS), storing storing the DAPP chain and mining DAPP blocks, and all side chains created on the 3DCoin platform by the users. Run the network status module. DAPPs are stored in data structures called Data Capsules, each one is referenced to a block in the DAPP chain and indexed in it.
+
 
  By removing the proof of work mechanism, this new architecture contributes to a huge savings in energy because it isn't a competition between miners, but a node cooperation (The bitcoin network consumes as much energy as Switzerland), it also avoids the huge hardware waste in term of CPU and GPU. Factually, the 3Dcoin architecture is environnement friendly.
 
