@@ -123,7 +123,11 @@ As of July 2018, the 3DCoin coinbase is worth 62 million 3DC. 75% (47million 3DC
 
  3DCoin v0.14 is game changing and its features are the following:
 
-​	Triple layered blockchain secured by the synchronization based proof of service instead of proof of work, saving massive amounts of energy and hardware, with the impossibility for two valid blocks to be created at the same time, thus the impossibility of a 51% attack.
+​	A Triple layered blockchain secured by the synchronization based proof of service instead of proof of work, saving massive amounts of energy and hardware, with the impossibility for two valid blocks to be created at the same time, thus the impossibility of a 51% attack.
+
+A network based on three types of specialized nodes (Master, Pulse, Prime) managing all aspects of the 3DCoin/Districts eccosystem.
+
+
 
  	A network based on three types of specialized nodes (Master, Pulse, Prime) managing all aspects of the 3DCoin/Districts eccosystem.
 
