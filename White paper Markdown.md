@@ -121,7 +121,7 @@ As of July 2018, the 3DCoin coinbase is worth 62 million 3DC. 75% (47million 3DC
 
  
 
- 3DCoin v0.14 is game changing and its features are the following :
+ 3DCoin v0.14 is game changing and its features are the following
 
  	Triple layered blockchain secured by the synchronisation based proof of service instead of proof of work, saving massive amounts of energy and hardware, with the impossibility for two valid blocks to be created at the same time, thus the impossibility of a 51% attack.
 
