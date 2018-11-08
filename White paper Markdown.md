@@ -127,13 +127,9 @@ As of July 2018, the 3DCoin coinbase is worth 62 million 3DC. 75% (47million 3DC
 
 A network based on three types of specialized nodes (Master, Pulse, Prime) managing all aspects of the 3DCoin/Districts eccosystem.
 
+A hashed real time outputs list allowing all transactions to be instantaneous with no extra fee.
 
-
- 	A network based on three types of specialized nodes (Master, Pulse, Prime) managing all aspects of the 3DCoin/Districts eccosystem.
-
- 	A hashed real time outputs list allowing all transactions to be instantaneous with no extra cost.
-
- 	A network status system that monitores updates in the nodes activity and listing, and tracks both simple transactions and script/API powered ones. 
+A network status system that monitores updates in the nodes activity and listing, tracks both simple transactions and script/API powered ones.
 
 ![POW1](https://image.ibb.co/iaMctV/Architecture-final.png)
 
