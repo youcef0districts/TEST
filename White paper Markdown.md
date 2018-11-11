@@ -1,4 +1,4 @@
-##  **<Abstract**
+##  **Abstract**
 
  The world has evolved into a fast-paced digitalized society, one where fluidity and ease of interaction take centre stage. Communication, social interaction, entertainment, and productivity are available at the push of a button. The caveat, however, is that the technologies that make this possible have in a bid to promote fluidity, cut out the traditional experiences formerly associated with these processes. More importantly, a dearth in scalable productive options and scarce resources have stymied the innovative process; brilliant ideas do not see daylight and of the handful that make it past the theoretical stage very few become successful enterprises.
 
@@ -126,7 +126,7 @@ As of July 2018, the 3DCoin coinbase is worth 62 million 3DC. 75% (47million 3DC
 - A Triple layered blockchain secured by the synchronization based proof of service instead of proof of work, saving massive amounts of energy and hardware, with the impossibility for two valid blocks to be created at the same time, thus the impossibility of 51% attacks.
 - A network based on three types of specialized nodes (Master, Pulse, Prime) managing all aspects of the 3DCoin/Districts eccosystem.
 - A hashed real time outputs list allowing all transactions to be instantaneous with no extra fee.
-- A network status system that monitores updates in the nodes activity and listing, tracks both simple transactions and script/API powered ones.
+- A network status system that monitors updates in the nodes activity and listing, tracks both simple transactions and script/API powered ones.
 
 ![POW1](https://image.ibb.co/iaMctV/Architecture-final.png)
 
@@ -134,9 +134,9 @@ Note that there are no miners.
 
 ## Transactions And blocks
 
- Transactions on the 3DCoin blockchain are specified to be unalterable and instantanious. The parsed script of each transaction and the API parameters determines how the transaction will be redeemed.
+ Transactions on the 3DCoin blockchain are specified to be unalterable and instantaneous. The parsed script of each transaction and the API parameters determines how the transaction will be redeemed.
 
- Transactions can be used to facilitate any transfer (or store) of value, as is in token distributions, online betting game systems or a simple payment for your morning cup of coffee. They are also used for the management of the 3D world objects and the DAPPs throught scrtipted Tokens.
+ Transactions can be used to facilitate any transfer (or store) of value, as is in token distributions, online betting game systems or a simple payment for your morning cup of coffee. They are also used for the management of the 3D world objects and the DAPPs through scripted Tokens.
 
  Path in the system : When a transaction is broadcasted on the network, the new masternode architecture is set up to enable instant validation. It does this by rapidly relaying the transaction to other nodes. Each node will then broadcast a signed vote, which when reaching a majority, will confirm the transaction in the network Status system then place it in the The real time outputs list, rendering it spendable (UTXO), even before the Mining of the block to which it will belong with the rest of the list.
 
