@@ -28,6 +28,15 @@ Indeed, transactions can be API powered, allowing the largest spectrum of smart 
 
 There are actually 68.143.706 3DC that have been produced, and the maximum will be 86 millions.
 
-#### Passive in come
+#### Passive income
 
-Helping the growth of the network and the execution of its functionalities by setting up a node (Master, prime, pulse), will come with a reward 
+Helping the growth of the network and the execution of its functionalities by setting up a node (Master, prime, pulse) will come with a reward at the mining of each block. The payment goes through a cycle where nodes are ordered in a list, every five minute, the node at the top of the list will get the 16 3DC that come with the mining of the block, then will get relegated to the bottom of the list.
+
+#### Does 3DC mining require allot of energy or powerful hardware?
+
+The mining being done through Proof of service and not proof of work, the requirement will be minimal, a simple VPS will be sufficient.
+
+#### What will be the collateral for node setup?
+
+It will be 25.000 3DC, and will only be locked during the first presence of the node in the payment list, once the top of the list reached and the payment acquired, the 25.000 will be free again without the loss of the node status. 
+
