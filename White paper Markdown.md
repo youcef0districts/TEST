@@ -201,7 +201,7 @@ The three types of blocks being mined at the same time (5min interval), all the 
 
 ###  **Types** 
 
-- **Payment order status list** (hosted in master nodes only, synchronized every 5 minutes): Nodes are assembled in a cycling Payment list , every time a block is mined, the five nodes on the top of the list will get an equal share of the block reward, all of them get relegated to the bottom of the list afterwards, new comers are also directly placed at the bottom, once a node recieves its first payment, the 25k collateral becomes unlocked an can be spent without the loss of the node state. 	
+- **Payment order status list** (hosted in master nodes only, synchronized every 5 minutes): Nodes are assembled in a cycling Payment list , every time a block is mined, the node on the top of the list will get the 16 3DC block reward, then will be relegated to bottom of the list afterwards to climb up again, new comers are also directly placed at the bottom, once a node recieves its first payment, the 25k collateral becomes unlocked an can be spent without the loss of the node state. 	
 
 - **Activity status list** (hosted in master nodes only, synchronized every 5 minutes)**:** The network status system monitors node activity indicators (ping, performance ...), will set a performance score for Nodes, which according to preset quality norms, will determine the consequential reward, either full,partial, or null. In the case where a node requires attention, as is when its ping is high, its connection slow or when it needs to upgrade its hardware the network sends a notification to the node in question. Every bit of information concerning a node is actively synchronized amongst nodes and updated for every mined block that happens on the network.
 
