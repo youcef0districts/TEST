@@ -30,3 +30,4 @@ There are actually 68.143.706 3DC that have been produced, and the maximum will 
 
 #### Passive in come
 
+Helping the growth of the network and the execution of its functionalities by setting up a node (Master, prime, pulse), will come with a reward 
