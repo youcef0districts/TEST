@@ -40,7 +40,7 @@
 
  To create this world, the Districts development team recruited the services of two innovative technologies, the blockchain, and Virtual Reality - each disruptive in its own right. Project Districts leverages the core efficiencies of these two pioneers of 21st-century innovation, to create an immersive virtual ecosystem, complete with virtualized real-life entities existing in a real-time interactive environment. This synergistic manipulation of the Blockchain and Virtual reality is an industry first, more importantly, however, it is one that allows us to integrate a diverse range of functionalities into the Districts 3D world.
 
- Ultimately, Project Districts will be a thoroughly robust ecosystem where productivity, recreation, and innovation come to roost, much similar to the real world, only this time without its associated complexities. Our goal is to be the worldʼs first ubiquitous interface for propagating traditional and ethereal experiences to both the everyday internet user and the tech-savvy geek.
+ Ultimately, Project Districts will be a thoroughly robust ecosystem where productivity, recreation, and innovation come to roost, much similar to the real world, only this time without its associated complexities. Our goal is to be the worldʼs first ubiquitous interface for propagating traditional and ethereal experiences to both the everyday Internet user and the tech-savvy geek.
 
 ##  **Escalating Virtual and Augmented Reality to new levels**
 
@@ -50,9 +50,9 @@
 
  The problem, however, with existing VR/AR frameworks is that they are:
 
--  	Complex 	to manipulate – requiring an in-depth knowledge of existing 	technologies and frameworks. As a result, usage has been limited to 	only industry professionals and tech-savvy enthusiast.
--  	Expensive 	to set up – VR and AR worlds (with emphasis on the forme) require 	dedicated high-end infrastructures for hosting; most of which exceed 	the budget ceiling of the everyday consumer.
--  	Limited 	in terms of capabilities and applicable use cases
+-  	Complex to manipulate – requiring an in-depth knowledge of existing technologies and frameworks. As a result, usage has been limited to 	only industry professionals and tech-savvy enthusiast.
+-  	Expensive to set up – VR and AR worlds (with emphasis on the former) require dedicated high-end infrastructures for hosting; most of which exceed the budget ceiling of the everyday consumer.
+-  	Limited in terms of capabilities and applicable use cases
 
  Project Districts launches as the panacea for all three limitations; by exploiting the latent capabilities of the blockchain, Districts 3D world floats itself on a robust P2P system. The efficiency of this blockchain network severely cuts down traditional costs associated with setting up and running an AR/VR based ecosystem.
 
@@ -93,10 +93,10 @@
  Fuelling this engine and serving as the official medium of transaction in the Districtʼs ecosystem is 3Dcoin – Project Districts own cryptocurrency. 3Dcoin is live on 02 April 2018 when it will be listed in global cryptocurrency exchanges. Fiscal predictions for 2018 Q4 hint to a more than proportional increase in the value of the cryptocurrency which unlike most other cryptocurrencies, is backed by a real-world entity – Project Districts.
 As of July 2018, the 3DCoin coinbase is worth 62 million 3DC. 75% (47million 3DC) of this sum is dedicated to the ICO, which on completion will serve as an initial funding round for the project. The remaining 25% is split into four portions;
 
--  	10% 	for early investors (locked for one year)
--  	10% 	for the development team (locked for five years)
--  	4% 	for the Districts board of advisors (locked for one year).
--  	1% 	for the bounty campaign
+-  	10% for early investors (locked for one year)
+-  	10% for the development team (locked for five years)
+-  	4% for the Districts board of advisors (locked for one year).
+-  	1% for the bounty campaign
 
  Given the already burgeoning demand for 3DCoin, and considering its fiat nature in the 3D world, one can only expect the best for the cryptocurrency in the world market come next year.
 
@@ -135,7 +135,7 @@ Note that there are no miners.
 
 ## Transactions And blocks
 
- Transactions on the 3DCoin blockchain are specified to be unalterable and instantaneous. The parsed script of each transaction and the API parameters determines how the transaction will be redeemed.
+ Transactions on the 3DCoin blockchain are specified to be unalterable and instantaneous. The parsed script of each transaction and the API parameters determine how the transaction will be redeemed.
 
  Transactions can be used to facilitate any transfer (or store) of value, as is in token distributions, online betting game systems or a simple payment for your morning cup of coffee. They are also used for the management of the 3D world objects and the DAPPs through scripted Tokens.
 
