@@ -10,24 +10,25 @@
 
 ##  **Table of Contents**
 
-1.  	Introduction: 	A preface to Blockchain Technology LLC
-2.  	Our 	vision
-3.  	Escalating 	Virtual and Augmented Realities to New Levels
-4.  	Use 	cases
-5.  	The 	Districts Ecosystem
-6.  	Market 	Opportunity
-7.  	Architecture: 	3DCoin Blockchain
-8.  	Transactions 	on the network
-9.  	Scripts
-10.  	External 	Public API
-11.  	Nodes
-12.  	Mining 	Rewards
-13.  	Tokens
-14.  	Sub 	Currencies
-15.  	Decentralized 	Applications
-16.  	Districts 	Visual Studio
-17.  	Content 	Acquisition and Payments
-18.  	Conclusion: 	The Districts 3D world
+1.  	Introduction: A preface to Blockchain Technology LLC
+2.  	Our vision
+3.  	Escalating Virtual and Augmented Realities to New Levels
+4.  	Use cases
+5.  	The Districts Ecosystem
+6.  	Market Opportunity
+7.  	Architecture: 3DCoin Blockchain
+8.  	Transactions and blocks
+9.  	Nodes and chains
+10.  	Network status system
+11.  	Mining and proof of service
+12.  	Scripts
+13.  	External/Public API
+14.  	Sub Currencies
+15.  	Districts land allocation
+16.  	Decentralized Applications
+17.  	Districts Visual Studio
+18.  	Content 	Acquisition and Payments
+19.  	Conclusion: 	The Districts 3D world
 
 ##  **Introduction**
 
