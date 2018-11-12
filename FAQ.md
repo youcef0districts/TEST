@@ -44,7 +44,7 @@ Transactions are thus instantly confirmed and rendered spendable before getting 
 
 #### The merkle root is replaced .. by?
 
-There are still roots in blocks, but the hashing order is different. Instead of a merkle tree, where hashing is done by Tx pairs, the 3DCoin root comes from a "merkle" stairs made with the **Real time outputs list**(next blocks transactions) as a base, and the hashing is done every time a new transaction is added.  
+There are still roots in blocks, but the hashing order is different. Instead of a merkle tree, where hashing is done by Tx pairs, the 3DCoin root comes from a "merkle" stairs made with the **Real time outputs list **(next blocks transactions) as a base, and the hashing is done every time a new transaction is added.  
 
 ![Root](https://image.ibb.co/c8ZskA/List-root.png)
 
