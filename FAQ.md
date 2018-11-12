@@ -26,7 +26,7 @@ Helping the growth of the network and the execution of its functionalities by se
 
 #### Does 3DC mining require allot of energy or powerful hardware?
 
-The mining being done through Proof of service and not proof of work, the requirement will be minimal, a simple VPS will be suffice.
+The mining being done through Proof of service and not proof of work, the requirement will be minimal, a simple VPS will suffice.
 
 #### What will be the collateral for node setup?
 
@@ -53,4 +53,4 @@ There are still roots in blocks, but the hashing order is different. Instead of 
 There are many reasons to that:
 
 - 3DCoin is the official currency of the Districts 3D world and it will be needed for all the businesses running in it.
-- 3DCoin will challenge all other cryptocurrencies with its new features as it constitutes a leap ahead in terms of smart contracts and decentralized applications possibilities, beside the infinitesimal resource requirements and transactions speed, it will be preferred by investors and consumers, and will conquer the market.
+- 3DCoin will challenge all other cryptocurrencies with its new features as it constitutes a leap ahead in terms of smart contracts and decentralized applications possibilities, beside the infinitesimal resource requirements and transactions high speed, it will be preferred by investors and consumers, and will conquer the market.
